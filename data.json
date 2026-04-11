@@ -10,10 +10,10 @@
   },
   "projects": [
     {
-      "title": "Project Two",
-      "description": "Coming Soon",
-      "imageUrl": "https://placehold.co/600x400/0c0a18/8b5cf6?text=Project+Image",
-      "link": "#",
+      "title": "Travel Form Web Application using PHP & MySQL",
+      "description": "A simple web application that collects user details through a form and stores them in a MySQL database using PHP.",
+      "imageUrl": "image/ss%20of%20webpage.png",
+      "link": "https://github.com/Abhishek8ingh/Creating-Submission-Form-using-PHP",
       "color": "purple"
     },
     {
